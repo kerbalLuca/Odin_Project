@@ -1,0 +1,14 @@
+HTML->Hyper Text Markup Language
+	-Makes all the structure of the webpage
+	-Keywords are surrounded by <> like <p></p>
+	-The p tag is for paragraphs, it is a container for content
+	-Some elements don't require closing tags such as the break tag <br> and the image tag <img>
+	-<p> is a paragraph element
+	-<h1-6> is how we defign headings, the smaller the number the bigger the number
+	-<strong> is used to bold
+	-<em> to italic
+	-Lists
+		a) <ul> is a outside unordered list
+		b) <ol> is a ordered list
+		c) <li> is list items
+
